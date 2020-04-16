@@ -1,2 +1,2 @@
 # IssueOver
-Repository for writing problems and solutions while studying programming
+프로그래밍을 공부하면서 겪었던 이슈들을 정리하고 해결방안을 작성하는 개인적인 공간
